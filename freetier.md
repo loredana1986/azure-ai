@@ -7,6 +7,6 @@ What does this mean for you?
 You will gain access to the enhanced benefits and features associated with the next Tier.  
 The upgrade will be processed automatically unless you choose to remain at your current Tier.  
 What do you need to do?
-If you wish to remain at your current Tier (Free Tier), please follow the [link]{https://learn.microsoft.com/en-us/azure/foundry/openai/quotas-limits?tabs=bash%2Ctier1} within the next 3 days.    
+If you wish to remain at your current Tier (Free Tier), please follow the (link)[https://learn.microsoft.com/en-us/azure/foundry/openai/quotas-limits?tabs=bash%2Ctier1] within the next 3 days.    
 If no action is taken, your subscription 3a9... will be automatically upgraded to Tier 1.  
 If you have any questions or would like more information about the Tier upgrade process, please contact our support team. Thank you for being a valued customer.  
